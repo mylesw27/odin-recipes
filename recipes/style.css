@@ -1,0 +1,25 @@
+body{
+    background-color: olivedrab;
+    background-image: "/img/background.jpg";
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+div.recipe{
+    color: white;
+    background-color: brown;
+}
+
+img{
+    height: auto;
+    width: 700px;
+}
+
+a{
+    color: white;
+}
