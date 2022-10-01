@@ -1,6 +1,6 @@
 body{
     background-color: olivedrab;
-
+    background-image: url/img/background.jpg;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
@@ -8,14 +8,13 @@ body{
 
 h1 {
     text-align: center;
-    background-image: url(/img/background.jpg);
 }
 
 div{
     text-align: center;
     height: auto;
     width: 300px;
-    margin: 20px auto;
+    margin: auto;
     padding: 10px;
 }
 
